@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Richard9306!
 
-<!--
-**Richard9306/Richard9306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+I'm a passionate developer interested in:
+- 🐍 Python (Django, Flask)
+- ☁️ Cloud computing (AWS, Azure)
+- 📊 Data Science and Machine Learning
 
-Here are some ideas to get you started:
+## 📫 How to Reach Me
+- Email: ryszard.najewski@gmail.com
+- LinkedIn: [www.linkedin.com/in/ryszardnajewski](www.linkedin.com/in/ryszardnajewski)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+Here are some of my favorite projects:
+- [https://github.com/pymasterspl/reddit](https://github.com/pymasterspl/reddit)
+- [Awesome Project 2](https://github.com/your-repo-2)
+
+## 🛠️ Skills
+- Python
+- Django + DRF
+- Git
+- Docker
+- Celery
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richard9306&show_icons=true&theme=radical)
+
+## ✨ Fun Fact
+I love solving coding challenges and learning new technologies!
