@@ -1,19 +1,13 @@
 ## 👋 Hi there!
 
-## 🌟 About Me
-I'm a passionate developer interested in:
-- 🐍 Python (Django, Flask)
-- ☁️ Cloud computing (AWS, Azure)
-- 📊 Data Science and Machine Learning
-
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richard9306&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Richard9306&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Richard9306&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richard9306&show_icons=true&theme=github)
+![GitHub Streak](https://streak-stats.demolab.com?user=Richard9306&theme=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Richard9306&layout=compact&theme=github)
 
 ## 🔥 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Richard9306&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Richard9306&theme=github)
 
 
 
