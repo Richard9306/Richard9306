@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-My name is Richard. I'm a member of [PyMasters](https://github.com/pymasterspl) community. I'm a passionate **Junior Python Developer** with a strong interest in building efficient and scalable applications using Django. My journey in programming revolves around learning, solving problems, and contributing to open source projects. I enjoy solving coding challenges and automating everyday tasks to make life easier.
+My name is Richard. I'm a member of the [PyMasters](https://github.com/pymasterspl) community. I'm a passionate **Junior Python Developer** with a strong interest in building efficient and scalable applications using Django. My journey in programming revolves around learning, solving problems, and contributing to open source projects. I enjoy solving coding challenges and automating everyday tasks to make life easier.
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richard9306&show_icons=true&theme=gruvbox)
