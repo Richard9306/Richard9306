@@ -13,7 +13,8 @@ I'm a passionate developer interested in:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Richard9306&layout=compact&theme=radical)
 
 ## 🔥 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Richard9306&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Richard9306&theme=radical)
+
 
 
 ## 📫 How to Reach Me
