@@ -4,7 +4,6 @@ My name is Richard. I'm a member of the [PyMasters](https://github.com/pymasters
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richard9306&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://streak-stats.demolab.com?user=Richard9306&theme=gruvbox)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Richard9306&layout=compact&theme=gruvbox)
 
 ## 📫 How to Reach Me
