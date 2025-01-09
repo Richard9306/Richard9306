@@ -18,6 +18,7 @@ Here are some of my favorite projects:
 ## 🛠️ Skills
 - Python
 - Django + DRF
+- Unit tests
 - Git
 - Docker
 - Celery
